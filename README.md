@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vlad</h1>
+<h3 align="center">A Python developer from Kazakhstan</h3>
 
-<!--
-**im-not-tequila/im-not-tequila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 I like beautiful code
 
-Here are some ideas to get you started:
+- 🔑 I like challenging tasks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+- 👨‍💻 Python (Django, Flask, FastAPI, Celery)
+- ⚙️ Sphinx
+- 👁️ CSS, JavaScript
+- 💽 MySQL, PostgreSQL, ClickHouse
++ a lot more :D
+
+## Contact
+- [Telegram](https://t.me/im_not_tequila)
+- [Email](mailto:i.am.tequila1236@gmail.com)
+
